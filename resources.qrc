@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/cursorTarget.png</file>
+        <file>img/sprite_sheet.png</file>
+    </qresource>
+</RCC>
